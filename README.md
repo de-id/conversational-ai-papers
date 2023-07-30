@@ -4,7 +4,7 @@ In this seminar, we will explore the fundamentals of conversational AI, from und
 
 
 | Title | Paper / Resource | Year | Why is it interesting? | Asignee | Recording | Slides 
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |Large Languague Models|[Llama 2](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/), [GPT2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf), [GPT4](https://arxiv.org/pdf/2303.08774.pdf)| 2023 | <details><summary>read why</summary> A review of the greatest and latest LLMs.</details> |  [@ganitk]() |[zoom](TBD)(code)|[slides](TBD) |
 |Adapter models|[K-adapters](https://arxiv.org/pdf/2002.01808.pdf), [AdapterHub](https://arxiv.org/pdf/2007.07779.pdf)| 2020 | <details><summary>read why</summary> Model specialization technique which trains only small components on top of the existing model layers.  </details> |  [Presenter]() |[zoom](TBD)(code)|[slides](TBD) |
 |Parameter-efficient fine-tuning (PEFT)|[LoRA](https://arxiv.org/pdf/2106.09685.pdf)| 2021 | <details><summary>read why</summary> Fine-tune technique that do not require full model finetuning. The idea behind LoRA is that fine-tuning a foundation model on a downstream task does not require updating all of its parameters. There is a low-dimension matrix that can represent the space of the downstream task with very high accuracy.  </details> |  [Presenter]() |[zoom](TBD)(code)|[slides](TBD) |
